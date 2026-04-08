@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+receipt_*.txt
+.venv/
+venv/
